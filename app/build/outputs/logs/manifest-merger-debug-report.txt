@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:2:1-103:12
+	package
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml
+		INJECTED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml
+		INJECTED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml
+		INJECTED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:7:5-9:40
+	android:targetSdkVersion
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:9:9-37
+		INJECTED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml
+		INJECTED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml
+		INJECTED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:10:1-63
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:10:18-60
+uses-permission#android.permission.CALL_PHONE
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:11:22-66
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:14:5-101:19
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:16:9-45
+activity#net.mohamedsamimejri.depannage_automobile.Utilisateur
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:20:13-81
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:25:27-74
+activity#net.mohamedsamimejri.depannage_automobile.EnvoyerDemmande
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:29:13-85
+activity#net.mohamedsamimejri.depannage_automobile.MainActivity
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:33:13-82
+activity#net.mohamedsamimejri.depannage_automobile.Reponse
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:37:13-77
+activity#net.mohamedsamimejri.depannage_automobile.ListeReponse
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:40:10-43:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:42:13-42
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:41:13-82
+activity#net.mohamedsamimejri.depannage_automobile.EnvoyerReponse
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:44:10-47:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:46:13-44
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:45:13-84
+activity#net.mohamedsamimejri.depannage_automobile.AjouterAutomobiliste
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:50:13-50
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:49:13-90
+activity#net.mohamedsamimejri.depannage_automobile.ListeDemmande
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:54:13-43
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:53:13-83
+activity#net.mohamedsamimejri.depannage_automobile.ListeAutomobiliste
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:58:13-48
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:57:13-88
+activity#net.mohamedsamimejri.depannage_automobile.ModifierAutomobiliste
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:60:10-63:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:62:13-51
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:61:13-91
+activity#net.mohamedsamimejri.depannage_automobile.GererDepanneur
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:64:9-67:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:66:13-44
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:65:13-84
+activity#net.mohamedsamimejri.depannage_automobile.GererAutomobiliste
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:69:9-72:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:71:13-48
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:70:13-88
+activity#net.mohamedsamimejri.depannage_automobile.ListeDepanneur
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:74:9-77:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:76:13-44
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:75:13-84
+activity#net.mohamedsamimejri.depannage_automobile.ModifierDepanneur
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:79:9-82:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:81:13-47
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:80:13-87
+activity#net.mohamedsamimejri.depannage_automobile.AjouterDepanneur
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:83:9-86:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:85:13-46
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:84:13-86
+activity#net.mohamedsamimejri.depannage_automobile.Administrateur
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:87:9-90:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:89:13-43
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:88:13-84
+activity#net.mohamedsamimejri.depannage_automobile.Automobiliste
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:91:9-94:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:93:13-42
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:92:13-83
+activity#net.mohamedsamimejri.depannage_automobile.Depanneur
+ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:95:9-98:20
+	android:label
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:97:13-38
+	android:name
+		ADDED from I:\Applications\Depannage_Automobile\app\src\main\AndroidManifest.xml:96:13-79

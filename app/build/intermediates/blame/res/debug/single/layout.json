@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\depanneur.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\depanneur.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ajouterdepanneur.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\ajouterdepanneur.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\modifierautomobiliste.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\modifierautomobiliste.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gererautomobiliste.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\gererautomobiliste.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\administrateur.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\administrateur.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reponse.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\reponse.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listedemmande.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\listedemmande.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\envoyerreponse.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\envoyerreponse.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listeautomobiliste.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\listeautomobiliste.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listedepanneur.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\listedepanneur.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\modifierdepanneur.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\modifierdepanneur.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ajouterautomobiliste.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\ajouterautomobiliste.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\automobiliste.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\automobiliste.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\envoyerdemmande.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\envoyerdemmande.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gererdepanneur.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\gererdepanneur.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listereponse.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\listereponse.xml"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\utilisateur.xml",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\layout\\utilisateur.xml"
+    }
+]

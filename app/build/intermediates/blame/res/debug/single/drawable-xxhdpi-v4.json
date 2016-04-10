@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\envoyerreponse.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\envoyerreponse.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\appeler.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\appeler.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\automobiliste.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\automobiliste.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\envoyerdemmande.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\envoyerdemmande.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ajouter.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\ajouter.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\consulterreponse.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\consulterreponse.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\modifier.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\modifier.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\identifier.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\identifier.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\gererautomobiliste.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\gererautomobiliste.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ajouterautomobiliste.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\ajouterautomobiliste.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\gererdepanneur.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\gererdepanneur.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\appelerautomobiliste.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\appelerautomobiliste.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\supprimer.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\supprimer.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\administrateur.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\administrateur.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\localiser.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\localiser.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\consulterdemmande.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\consulterdemmande.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\back.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\depanneur.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\depanneur.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\appelerdepanneur.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\appelerdepanneur.png"
+    },
+    {
+        "merged": "I:\\Applications\\Depannage_Automobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "I:\\Applications\\Depannage_Automobile\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
